@@ -2,7 +2,7 @@
 Magoosh Downloader
 
 
-Step 1: Clone the Repository.
+Step 1: Download the zip file.
 
 
 Step 2: Unzip the file.
