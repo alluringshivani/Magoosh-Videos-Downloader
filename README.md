@@ -1,6 +1,17 @@
 # crack
 Magoosh Downloader
 
+
+Step 1: Clone the Repository.
+
+
+Step 2: Unzip the file.
+
+
+Step 3: Run the .exe file.
+
+Step 4 : A prompt will open add the file name given below and wait for it to download the content.
+
 it is a .exe file made in python and this can download any course in magoosh website
 
 MAGOOSH-GRE
@@ -26,3 +37,6 @@ file name = SAT
 MAGOOSH-ACT
 
 file name = ACT
+
+
+Enjoy !!!!!!!!!!!!!!!!!!!!!
