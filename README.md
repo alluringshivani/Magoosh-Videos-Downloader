@@ -39,4 +39,4 @@ MAGOOSH-ACT
 file name = ACT
 
 
-Enjoy !!!!!!!!!!!!!!!!!!!!!
+Enjoy !!
